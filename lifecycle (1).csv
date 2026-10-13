@@ -1,0 +1,7 @@
+Tahap,Aktivitas Utama,Contoh Tools,Risiko Jika Diabaikan
+Acquisition,Mengumpulkan data dari berbagai sumber,"Requests, BeautifulSoup",Data tidak lengkap
+Storage,Menyimpan dan mengorganisasi data,"MySQL, PostgreSQL",Data hilang atau sulit ditemukan
+Cleaning,Membersihkan data yang kosong dan duplikat,"Pandas, OpenRefine",Data tidak akurat
+Transformation,Mengubah format dan struktur data,"Pandas, NumPy",Data tidak konsisten
+Analysis,Menganalisis data untuk memperoleh informasi,"Pandas, Matplotlib",Kesimpulan analisis keliru
+Delivery,Menyajikan hasil analisis kepada pengguna,"Power BI, Tableau",Hasil analisis sulit dipahami
